@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/Rich-Harris/pancake#readme",
   "dependencies": {
-    "yootils": "0.0.16"
+    "yootils": "0.2.0"
   }
 }

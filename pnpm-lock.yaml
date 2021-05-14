@@ -1,13 +1,13 @@
 lockfileVersion: 5.3
 
 specifiers:
-  yootils: 0.0.16
+  yootils: 0.2.0
 
 dependencies:
-  yootils: 0.0.16
+  yootils: 0.2.0
 
 packages:
 
-  /yootils/0.0.16:
-    resolution: {integrity: sha512-aIVecm5ucOzwhtKbl0zkfg0ZSOUR9c2da0k8cIc9umjjzkvVCWUUX/UHZ1CLPsv4wmJLqt0aWeLB7p9n9JDwYQ==}
+  /yootils/0.2.0:
+    resolution: {integrity: sha512-f4W+Dg0WbB4sXVmsTkIADwA74UDLLG37ymMxKHmcqDe/4gB84ONpD+sfFgJLKN8oN6pCMYzVulqHNaYHETi4NQ==}
     dev: false

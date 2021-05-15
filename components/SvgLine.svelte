@@ -7,7 +7,7 @@
 	export let data;
 	export let x = default_x;
 	export let y = default_y;
-  export let plotNull = false;
+  export let plotNull = true;
   let d;
 
   $: if (plotNull) {
